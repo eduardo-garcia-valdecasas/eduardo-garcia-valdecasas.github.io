@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+    - "es/*.qmd"
+  resources:
+    - assets/
+    - publications.bib
+
+website:
+  title: "Eduardo García-Valdecasas"
+  site-url: "https://eduardo-garcia-valdecasas.github.io"
+  search: false
+  navbar: false
+  sidebar: false
+
+format:
+  html:
+    minimal: true
+    template: templates/page.html
+    toc: false
+    anchor-sections: false
+    code-copy: false
+    html-table-processing: none
+    wrap: none
+
+execute:
+  enabled: false

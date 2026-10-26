@@ -1,0 +1,10 @@
+{
+  "name": "eduardo-garcia-valdecasas-website",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "preview": "node scripts/preview.mjs dist"
+  },
+  "engines": {"node": ">=20"}
+}

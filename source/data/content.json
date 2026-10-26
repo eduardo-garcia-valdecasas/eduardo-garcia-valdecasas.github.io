@@ -1,0 +1,1456 @@
+{
+  "name": "Eduardo García-Valdecasas",
+  "email": "eduardo.garcia.valdecasas@gmail.com",
+  "site_url": "https://eduardo-garcia-valdecasas.github.io",
+  "role": {
+    "en": "Assistant Professor · Ayudante Doctor",
+    "es": "Profesor Ayudante Doctor",
+    "institution": "Universidad Politécnica de Madrid",
+    "school": "ETSIAE",
+    "department": "Física Aplicada",
+    "start": "2026-10"
+  },
+  "bio": {
+    "en": [
+      "I’m a theoretical physicist and Assistant Professor at UPM’s School of Aeronautical and Space Engineering in Madrid. My work explores quantum field theory, string theory and holography, especially what symmetries can tell us about quantum gravity.",
+      "I enjoy finding connections between ideas that at first seem far apart, and sharing the physics behind them. Before joining UPM in October 2026, I worked at SISSA, Harvard and the Université libre de Bruxelles."
+    ],
+    "es": [
+      "Soy físico teórico y profesor ayudante doctor en la ETSIAE de la Universidad Politécnica de Madrid. Investigo en teoría cuántica de campos, teoría de cuerdas y holografía, con especial interés en lo que las simetrías nos enseñan sobre la gravedad cuántica.",
+      "Me gusta conectar ideas que a primera vista parecen lejanas y compartir la física que hay detrás. Antes de incorporarme a la UPM en octubre de 2026, fui investigador posdoctoral en SISSA, Harvard y la Université libre de Bruxelles."
+    ]
+  },
+  "publications": [
+    {
+      "id": "inspire-3168827",
+      "inspire_id": "3168827",
+      "type": "conference proceeding",
+      "title": "The supergravity dual of a finite duality cascade",
+      "authors": [
+        {
+          "name": "Moroni, Pietro",
+          "inspire_author_id": "2972848"
+        },
+        {
+          "name": "Aramini, Fabrizio",
+          "inspire_author_id": "2618706"
+        },
+        {
+          "name": "Argurio, Riccardo",
+          "inspire_author_id": "1018143"
+        },
+        {
+          "name": "Bertolini, Matteo",
+          "inspire_author_id": "1016527"
+        },
+        {
+          "name": "García-Valdecasas, Eduardo",
+          "inspire_author_id": "1515314"
+        }
+      ],
+      "year": 2026,
+      "journal": {
+        "name": "PoS",
+        "volume": "CORFU2025",
+        "article": "273",
+        "year": 2026
+      },
+      "preprint_date": "2026-06-15",
+      "publication_date": "2026-08-24",
+      "arxiv_id": "2606.16630",
+      "doi": "10.22323/1.509.0273",
+      "links": {
+        "inspire": "https://inspirehep.net/literature/3168827",
+        "arxiv": "https://arxiv.org/abs/2606.16630",
+        "pdf": "https://arxiv.org/pdf/2606.16630",
+        "journal": "https://doi.org/10.22323/1.509.0273"
+      },
+      "verification": "Bibliographic metadata checked against the INSPIRE author-linked literature record on 2026-10-26; journal articles also matched to all 18 CV arXiv IDs."
+    },
+    {
+      "id": "inspire-3093960",
+      "inspire_id": "3093960",
+      "type": "journal article",
+      "title": "Higher-form entanglement asymmetry. Part I. The limits of symmetry breaking",
+      "authors": [
+        {
+          "name": "Benini, Francesco",
+          "inspire_author_id": "1039881"
+        },
+        {
+          "name": "García-Valdecasas, Eduardo",
+          "inspire_author_id": "1515314"
+        },
+        {
+          "name": "Vitouladitis, Stathis",
+          "inspire_author_id": "1804700"
+        }
+      ],
+      "year": 2026,
+      "journal": {
+        "name": "JHEP",
+        "volume": "05",
+        "article": "202",
+        "year": 2026
+      },
+      "preprint_date": "2025-12-17",
+      "publication_date": "2026-05-18",
+      "arxiv_id": "2512.15898",
+      "doi": "10.1007/JHEP05(2026)202",
+      "links": {
+        "inspire": "https://inspirehep.net/literature/3093960",
+        "arxiv": "https://arxiv.org/abs/2512.15898",
+        "pdf": "https://arxiv.org/pdf/2512.15898",
+        "journal": "https://doi.org/10.1007/JHEP05%282026%29202"
+      },
+      "verification": "Bibliographic metadata checked against the INSPIRE author-linked literature record on 2026-10-26; journal articles also matched to all 18 CV arXiv IDs."
+    },
+    {
+      "id": "inspire-2957203",
+      "inspire_id": "2957203",
+      "type": "journal article",
+      "title": "The SymTFT of u(N) Yang-Mills Theory and holography",
+      "authors": [
+        {
+          "name": "Bergman, Oren",
+          "inspire_author_id": "1016639"
+        },
+        {
+          "name": "Garcia-Valdecasas, Eduardo",
+          "inspire_author_id": "1515314"
+        },
+        {
+          "name": "Mignosa, Francesco",
+          "inspire_author_id": "1806296"
+        },
+        {
+          "name": "Rodriguez-Gomez, Diego",
+          "inspire_author_id": "1032665"
+        }
+      ],
+      "year": 2026,
+      "journal": {
+        "name": "JHEP",
+        "volume": "04",
+        "article": "114",
+        "year": 2026
+      },
+      "preprint_date": "2025-08-01",
+      "publication_date": "2026-04-15",
+      "arxiv_id": "2508.00992",
+      "doi": "10.1007/JHEP04(2026)114",
+      "links": {
+        "inspire": "https://inspirehep.net/literature/2957203",
+        "arxiv": "https://arxiv.org/abs/2508.00992",
+        "pdf": "https://arxiv.org/pdf/2508.00992",
+        "journal": "https://doi.org/10.1007/JHEP04%282026%29114"
+      },
+      "verification": "Bibliographic metadata checked against the INSPIRE author-linked literature record on 2026-10-26; journal articles also matched to all 18 CV arXiv IDs."
+    },
+    {
+      "id": "inspire-2938363",
+      "inspire_id": "2938363",
+      "type": "journal article",
+      "title": "Gravity, finite duality cascades and confinement",
+      "authors": [
+        {
+          "name": "Aramini, Fabrizio",
+          "inspire_author_id": "2618706"
+        },
+        {
+          "name": "Argurio, Riccardo",
+          "inspire_author_id": "1018143"
+        },
+        {
+          "name": "Bertolini, Matteo",
+          "inspire_author_id": "1016527"
+        },
+        {
+          "name": "García-Valdecasas, Eduardo",
+          "inspire_author_id": "1515314"
+        },
+        {
+          "name": "Moroni, Pietro",
+          "inspire_author_id": "2972848"
+        }
+      ],
+      "year": 2025,
+      "journal": {
+        "name": "JHEP",
+        "volume": "09",
+        "article": "054",
+        "year": 2025
+      },
+      "preprint_date": "2025-06-23",
+      "publication_date": "2025-09-05",
+      "arxiv_id": "2506.18988",
+      "doi": "10.1007/JHEP09(2025)054",
+      "links": {
+        "inspire": "https://inspirehep.net/literature/2938363",
+        "arxiv": "https://arxiv.org/abs/2506.18988",
+        "pdf": "https://arxiv.org/pdf/2506.18988",
+        "journal": "https://doi.org/10.1007/JHEP09%282025%29054"
+      },
+      "verification": "Bibliographic metadata checked against the INSPIRE author-linked literature record on 2026-10-26; journal articles also matched to all 18 CV arXiv IDs."
+    },
+    {
+      "id": "inspire-2813773",
+      "inspire_id": "2813773",
+      "type": "journal article",
+      "title": "Monopole breaking of Chern-Weil symmetries",
+      "authors": [
+        {
+          "name": "García-Valdecasas, Eduardo",
+          "inspire_author_id": "1515314"
+        },
+        {
+          "name": "Reece, Matthew",
+          "inspire_author_id": "1025278"
+        },
+        {
+          "name": "Suzuki, Motoo",
+          "inspire_author_id": "1696923"
+        }
+      ],
+      "year": 2025,
+      "journal": {
+        "name": "SciPost Phys.",
+        "volume": "18",
+        "issue": "5",
+        "article": "162",
+        "year": 2025
+      },
+      "preprint_date": "2024-07-31",
+      "publication_date": "2025-05-20",
+      "arxiv_id": "2408.00067",
+      "doi": "10.21468/SciPostPhys.18.5.162",
+      "links": {
+        "inspire": "https://inspirehep.net/literature/2813773",
+        "arxiv": "https://arxiv.org/abs/2408.00067",
+        "pdf": "https://arxiv.org/pdf/2408.00067",
+        "journal": "https://doi.org/10.21468/SciPostPhys.18.5.162"
+      },
+      "verification": "Bibliographic metadata checked against the INSPIRE author-linked literature record on 2026-10-26; journal articles also matched to all 18 CV arXiv IDs."
+    },
+    {
+      "id": "inspire-2803569",
+      "inspire_id": "2803569",
+      "type": "journal article",
+      "title": "Non-BPS branes and continuous symmetries",
+      "authors": [
+        {
+          "name": "Bergman, Oren",
+          "inspire_author_id": "1016639"
+        },
+        {
+          "name": "Garcia-Valdecasas, Eduardo",
+          "inspire_author_id": "1515314"
+        },
+        {
+          "name": "Mignosa, Francesco",
+          "inspire_author_id": "1806296"
+        },
+        {
+          "name": "Rodriguez-Gomez, Diego",
+          "inspire_author_id": "1032665"
+        }
+      ],
+      "year": 2025,
+      "journal": {
+        "name": "JHEP",
+        "volume": "02",
+        "article": "066",
+        "year": 2025
+      },
+      "preprint_date": "2024-06-30",
+      "publication_date": "2025-02-12",
+      "arxiv_id": "2407.00773",
+      "doi": "10.1007/JHEP02(2025)066",
+      "links": {
+        "inspire": "https://inspirehep.net/literature/2803569",
+        "arxiv": "https://arxiv.org/abs/2407.00773",
+        "pdf": "https://arxiv.org/pdf/2407.00773",
+        "journal": "https://doi.org/10.1007/JHEP02%282025%29066"
+      },
+      "verification": "Bibliographic metadata checked against the INSPIRE author-linked literature record on 2026-10-26; journal articles also matched to all 18 CV arXiv IDs."
+    },
+    {
+      "id": "inspire-2753888",
+      "inspire_id": "2753888",
+      "type": "journal article",
+      "title": "Spontaneously broken (-1)-form U(1) symmetries",
+      "authors": [
+        {
+          "name": "Aloni, Daniel",
+          "inspire_author_id": "1957241"
+        },
+        {
+          "name": "García-Valdecasas, Eduardo",
+          "inspire_author_id": "1515314"
+        },
+        {
+          "name": "Reece, Matthew",
+          "inspire_author_id": "1025278"
+        },
+        {
+          "name": "Suzuki, Motoo",
+          "inspire_author_id": "1696923"
+        }
+      ],
+      "year": 2024,
+      "journal": {
+        "name": "SciPost Phys.",
+        "volume": "17",
+        "issue": "2",
+        "article": "031",
+        "year": 2024
+      },
+      "preprint_date": "2024-01-31",
+      "publication_date": "2024-08-01",
+      "arxiv_id": "2402.00117",
+      "doi": "10.21468/SciPostPhys.17.2.031",
+      "links": {
+        "inspire": "https://inspirehep.net/literature/2753888",
+        "arxiv": "https://arxiv.org/abs/2402.00117",
+        "pdf": "https://arxiv.org/pdf/2402.00117",
+        "journal": "https://doi.org/10.21468/SciPostPhys.17.2.031"
+      },
+      "verification": "Bibliographic metadata checked against the INSPIRE author-linked literature record on 2026-10-26; journal articles also matched to all 18 CV arXiv IDs."
+    },
+    {
+      "id": "inspire-2620255",
+      "inspire_id": "2620255",
+      "type": "journal article",
+      "title": "Non-invertible symmetries in supergravity",
+      "authors": [
+        {
+          "name": "García-Valdecasas, Eduardo",
+          "inspire_author_id": "1515314"
+        }
+      ],
+      "year": 2023,
+      "journal": {
+        "name": "JHEP",
+        "volume": "04",
+        "article": "102",
+        "year": 2023
+      },
+      "preprint_date": "2023-01-02",
+      "publication_date": "2023-04-21",
+      "arxiv_id": "2301.00777",
+      "doi": "10.1007/JHEP04(2023)102",
+      "links": {
+        "inspire": "https://inspirehep.net/literature/2620255",
+        "arxiv": "https://arxiv.org/abs/2301.00777",
+        "pdf": "https://arxiv.org/pdf/2301.00777",
+        "journal": "https://doi.org/10.1007/JHEP04%282023%29102"
+      },
+      "verification": "Bibliographic metadata checked against the INSPIRE author-linked literature record on 2026-10-26; journal articles also matched to all 18 CV arXiv IDs."
+    },
+    {
+      "id": "inspire-2106533",
+      "inspire_id": "2106533",
+      "type": "journal article",
+      "title": "Non-invertible defects in 5d, boundaries and holography",
+      "authors": [
+        {
+          "name": "Damia, Jeremias Aguilera",
+          "inspire_author_id": "1816260"
+        },
+        {
+          "name": "Argurio, Riccardo",
+          "inspire_author_id": "1018143"
+        },
+        {
+          "name": "Garcia-Valdecasas, Eduardo",
+          "inspire_author_id": "1515314"
+        }
+      ],
+      "year": 2023,
+      "journal": {
+        "name": "SciPost Phys.",
+        "volume": "14",
+        "issue": "4",
+        "article": "067",
+        "year": 2023
+      },
+      "preprint_date": "2022-07-06",
+      "publication_date": "2023-04-12",
+      "arxiv_id": "2207.02831",
+      "doi": "10.21468/SciPostPhys.14.4.067",
+      "links": {
+        "inspire": "https://inspirehep.net/literature/2106533",
+        "arxiv": "https://arxiv.org/abs/2207.02831",
+        "pdf": "https://arxiv.org/pdf/2207.02831",
+        "journal": "https://doi.org/10.21468/SciPostPhys.14.4.067"
+      },
+      "verification": "Bibliographic metadata checked against the INSPIRE author-linked literature record on 2026-10-26; journal articles also matched to all 18 CV arXiv IDs."
+    },
+    {
+      "id": "inspire-2104767",
+      "inspire_id": "2104767",
+      "type": "journal article",
+      "title": "The Octagon at large M",
+      "authors": [
+        {
+          "name": "Argurio, Riccardo",
+          "inspire_author_id": "1018143"
+        },
+        {
+          "name": "Bertolini, Matteo",
+          "inspire_author_id": "1016527"
+        },
+        {
+          "name": "Franco, Sebastián",
+          "inspire_author_id": "1019922"
+        },
+        {
+          "name": "García-Valdecasas, Eduardo",
+          "inspire_author_id": "1515314"
+        },
+        {
+          "name": "Meynet, Shani",
+          "inspire_author_id": "1800705"
+        },
+        {
+          "name": "Pasternak, Antoine",
+          "inspire_author_id": "1727157"
+        },
+        {
+          "name": "Tatitscheff, Valdo",
+          "inspire_author_id": "1804711"
+        }
+      ],
+      "year": 2022,
+      "journal": {
+        "name": "JHEP",
+        "volume": "11",
+        "article": "114",
+        "year": 2022
+      },
+      "preprint_date": "2022-07-01",
+      "publication_date": "2022-11-18",
+      "arxiv_id": "2207.00525",
+      "doi": "10.1007/JHEP11(2022)114",
+      "links": {
+        "inspire": "https://inspirehep.net/literature/2104767",
+        "arxiv": "https://arxiv.org/abs/2207.00525",
+        "pdf": "https://arxiv.org/pdf/2207.00525",
+        "journal": "https://doi.org/10.1007/JHEP11%282022%29114"
+      },
+      "verification": "Bibliographic metadata checked against the INSPIRE author-linked literature record on 2026-10-26; journal articles also matched to all 18 CV arXiv IDs."
+    },
+    {
+      "id": "inspire-1839685",
+      "inspire_id": "1839685",
+      "type": "journal article",
+      "title": "Dimers in a Bottle",
+      "authors": [
+        {
+          "name": "García-Valdecasas, Eduardo",
+          "inspire_author_id": "1515314"
+        },
+        {
+          "name": "Meynet, Shani",
+          "inspire_author_id": "1800705"
+        },
+        {
+          "name": "Pasternak, Antoine",
+          "inspire_author_id": "1727157"
+        },
+        {
+          "name": "Tatitscheff, Valdo",
+          "inspire_author_id": "1804711"
+        }
+      ],
+      "year": 2021,
+      "journal": {
+        "name": "JHEP",
+        "volume": "04",
+        "article": "274",
+        "year": 2021
+      },
+      "preprint_date": "2021-01-07",
+      "publication_date": "2021-04-28",
+      "arxiv_id": "2101.02670",
+      "doi": "10.1007/JHEP04(2021)274",
+      "links": {
+        "inspire": "https://inspirehep.net/literature/1839685",
+        "arxiv": "https://arxiv.org/abs/2101.02670",
+        "pdf": "https://arxiv.org/pdf/2101.02670",
+        "journal": "https://doi.org/10.1007/JHEP04%282021%29274"
+      },
+      "verification": "Bibliographic metadata checked against the INSPIRE author-linked literature record on 2026-10-26; journal articles also matched to all 18 CV arXiv IDs."
+    },
+    {
+      "id": "inspire-1818853",
+      "inspire_id": "1818853",
+      "type": "journal article",
+      "title": "Dimers, Orientifolds and Anomalies",
+      "authors": [
+        {
+          "name": "Argurio, Riccardo",
+          "inspire_author_id": "1018143"
+        },
+        {
+          "name": "Bertolini, Matteo",
+          "inspire_author_id": "1016527"
+        },
+        {
+          "name": "Franco, Sebastián",
+          "inspire_author_id": "1019922"
+        },
+        {
+          "name": "García-Valdecasas, Eduardo",
+          "inspire_author_id": "1515314"
+        },
+        {
+          "name": "Meynet, Shani",
+          "inspire_author_id": "1800705"
+        },
+        {
+          "name": "Pasternak, Antoine",
+          "inspire_author_id": "1727157"
+        },
+        {
+          "name": "Tatitscheff, Valdo",
+          "inspire_author_id": "1804711"
+        }
+      ],
+      "year": 2021,
+      "journal": {
+        "name": "JHEP",
+        "volume": "02",
+        "article": "153",
+        "year": 2021
+      },
+      "preprint_date": "2020-09-23",
+      "publication_date": "2021-02-17",
+      "arxiv_id": "2009.11291",
+      "doi": "10.1007/JHEP02(2021)153",
+      "links": {
+        "inspire": "https://inspirehep.net/literature/1818853",
+        "arxiv": "https://arxiv.org/abs/2009.11291",
+        "pdf": "https://arxiv.org/pdf/2009.11291",
+        "journal": "https://doi.org/10.1007/JHEP02%282021%29153"
+      },
+      "verification": "Bibliographic metadata checked against the INSPIRE author-linked literature record on 2026-10-26; journal articles also matched to all 18 CV arXiv IDs."
+    },
+    {
+      "id": "inspire-1809072",
+      "inspire_id": "1809072",
+      "type": "journal article",
+      "title": "Dimers, Orientifolds and Stability of Supersymmetry Breaking Vacua",
+      "authors": [
+        {
+          "name": "Argurio, Riccardo",
+          "inspire_author_id": "1018143"
+        },
+        {
+          "name": "Bertolini, Matteo",
+          "inspire_author_id": "1016527"
+        },
+        {
+          "name": "Franco, Sebastián",
+          "inspire_author_id": "1019922"
+        },
+        {
+          "name": "García-Valdecasas, Eduardo",
+          "inspire_author_id": "1515314"
+        },
+        {
+          "name": "Meynet, Shani",
+          "inspire_author_id": "1800705"
+        },
+        {
+          "name": "Pasternak, Antoine",
+          "inspire_author_id": "1727157"
+        },
+        {
+          "name": "Tatitscheff, Valdo",
+          "inspire_author_id": "1804711"
+        }
+      ],
+      "year": 2021,
+      "journal": {
+        "name": "JHEP",
+        "volume": "01",
+        "article": "061",
+        "year": 2021
+      },
+      "preprint_date": "2020-07-27",
+      "publication_date": "2021-01-13",
+      "arxiv_id": "2007.13762",
+      "doi": "10.1007/JHEP01(2021)061",
+      "links": {
+        "inspire": "https://inspirehep.net/literature/1809072",
+        "arxiv": "https://arxiv.org/abs/2007.13762",
+        "pdf": "https://arxiv.org/pdf/2007.13762",
+        "journal": "https://doi.org/10.1007/JHEP01%282021%29061"
+      },
+      "verification": "Bibliographic metadata checked against the INSPIRE author-linked literature record on 2026-10-26; journal articles also matched to all 18 CV arXiv IDs."
+    },
+    {
+      "id": "inspire-1797092",
+      "inspire_id": "1797092",
+      "type": "journal article",
+      "title": "The Octagon and the Non-Supersymmetric String Landscape",
+      "authors": [
+        {
+          "name": "Argurio, Riccardo",
+          "inspire_author_id": "1018143"
+        },
+        {
+          "name": "Bertolini, Matteo",
+          "inspire_author_id": "1016527"
+        },
+        {
+          "name": "Franco, Sebastián",
+          "inspire_author_id": "1019922"
+        },
+        {
+          "name": "García-Valdecasas, Eduardo",
+          "inspire_author_id": "1515314"
+        },
+        {
+          "name": "Meynet, Shani",
+          "inspire_author_id": "1800705"
+        },
+        {
+          "name": "Pasternak, Antoine",
+          "inspire_author_id": "1727157"
+        },
+        {
+          "name": "Tatitscheff, Valdo",
+          "inspire_author_id": "1804711"
+        }
+      ],
+      "year": 2021,
+      "journal": {
+        "name": "Phys.Lett.B",
+        "volume": "815",
+        "article": "136153",
+        "year": 2021
+      },
+      "preprint_date": "2020-05-19",
+      "publication_date": "2021-04-10",
+      "arxiv_id": "2005.09671",
+      "doi": "10.1016/j.physletb.2021.136153",
+      "links": {
+        "inspire": "https://inspirehep.net/literature/1797092",
+        "arxiv": "https://arxiv.org/abs/2005.09671",
+        "pdf": "https://arxiv.org/pdf/2005.09671",
+        "journal": "https://doi.org/10.1016/j.physletb.2021.136153"
+      },
+      "verification": "Bibliographic metadata checked against the INSPIRE author-linked literature record on 2026-10-26; journal articles also matched to all 18 CV arXiv IDs."
+    },
+    {
+      "id": "inspire-1768786",
+      "inspire_id": "1768786",
+      "type": "doctoral thesis",
+      "title": "D-Brane instanton backreaction and a Swampland conjecture",
+      "authors": [
+        {
+          "name": "García-Valdecasas Tenreiro, Eduardo",
+          "inspire_author_id": "1515314"
+        }
+      ],
+      "year": 2019,
+      "journal": null,
+      "preprint_date": null,
+      "publication_date": "2019-09-27",
+      "arxiv_id": null,
+      "doi": null,
+      "links": {
+        "inspire": "https://inspirehep.net/literature/1768786",
+        "pdf": "https://inspirehep.net/files/1fb6033bad8fdcb7f3cb45e905ee84db"
+      },
+      "verification": "Bibliographic metadata checked against the INSPIRE author-linked literature record on 2026-10-26; journal articles also matched to all 18 CV arXiv IDs."
+    },
+    {
+      "id": "inspire-1744004",
+      "inspire_id": "1744004",
+      "type": "journal article",
+      "title": "Discrete Symmetries in Dimer Diagrams",
+      "authors": [
+        {
+          "name": "García-Valdecasas, Eduardo",
+          "inspire_author_id": "1515314"
+        },
+        {
+          "name": "Mininno, Alessandro",
+          "inspire_author_id": "1744401"
+        },
+        {
+          "name": "Uranga, Angel M.",
+          "inspire_author_id": "985203"
+        }
+      ],
+      "year": 2019,
+      "journal": {
+        "name": "JHEP",
+        "volume": "10",
+        "article": "091",
+        "year": 2019
+      },
+      "preprint_date": "2019-07-16",
+      "publication_date": "2019-10-08",
+      "arxiv_id": "1907.06938",
+      "doi": "10.1007/JHEP10(2019)091",
+      "links": {
+        "inspire": "https://inspirehep.net/literature/1744004",
+        "arxiv": "https://arxiv.org/abs/1907.06938",
+        "pdf": "https://arxiv.org/pdf/1907.06938",
+        "journal": "https://doi.org/10.1007/JHEP10%282019%29091"
+      },
+      "verification": "Bibliographic metadata checked against the INSPIRE author-linked literature record on 2026-10-26; journal articles also matched to all 18 CV arXiv IDs."
+    },
+    {
+      "id": "inspire-1699049",
+      "inspire_id": "1699049",
+      "type": "journal article",
+      "title": "Supersymmetry Breaking Warped Throats and the Weak Gravity Conjecture",
+      "authors": [
+        {
+          "name": "Buratti, Ginevra",
+          "inspire_author_id": "1749387"
+        },
+        {
+          "name": "García-Valdecasas, Eduardo",
+          "inspire_author_id": "1515314"
+        },
+        {
+          "name": "Uranga, Angel M.",
+          "inspire_author_id": "985203"
+        }
+      ],
+      "year": 2019,
+      "journal": {
+        "name": "JHEP",
+        "volume": "04",
+        "article": "111",
+        "year": 2019
+      },
+      "preprint_date": "2018-10-17",
+      "publication_date": "2019-04-16",
+      "arxiv_id": "1810.07673",
+      "doi": "10.1007/JHEP04(2019)111",
+      "links": {
+        "inspire": "https://inspirehep.net/literature/1699049",
+        "arxiv": "https://arxiv.org/abs/1810.07673",
+        "pdf": "https://arxiv.org/pdf/1810.07673",
+        "journal": "https://doi.org/10.1007/JHEP04%282019%29111"
+      },
+      "verification": "Bibliographic metadata checked against the INSPIRE author-linked literature record on 2026-10-26; journal articles also matched to all 18 CV arXiv IDs."
+    },
+    {
+      "id": "inspire-1670952",
+      "inspire_id": "1670952",
+      "type": "journal article",
+      "title": "Bipartite field theories and D-brane instantons",
+      "authors": [
+        {
+          "name": "Franco, Sebastián",
+          "inspire_author_id": "1019922"
+        },
+        {
+          "name": "García-Valdecasas, Eduardo",
+          "inspire_author_id": "1515314"
+        },
+        {
+          "name": "Uranga, Angel M.",
+          "inspire_author_id": "985203"
+        }
+      ],
+      "year": 2018,
+      "journal": {
+        "name": "JHEP",
+        "volume": "11",
+        "article": "098",
+        "year": 2018
+      },
+      "preprint_date": "2018-04-30",
+      "publication_date": "2018-11-15",
+      "arxiv_id": "1805.00011",
+      "doi": "10.1007/JHEP11(2018)098",
+      "links": {
+        "inspire": "https://inspirehep.net/literature/1670952",
+        "arxiv": "https://arxiv.org/abs/1805.00011",
+        "pdf": "https://arxiv.org/pdf/1805.00011",
+        "journal": "https://doi.org/10.1007/JHEP11%282018%29098"
+      },
+      "verification": "Bibliographic metadata checked against the INSPIRE author-linked literature record on 2026-10-26; journal articles also matched to all 18 CV arXiv IDs."
+    },
+    {
+      "id": "inspire-1593786",
+      "inspire_id": "1593786",
+      "type": "journal article",
+      "title": "Backreacting D-brane instantons on branes at singularities",
+      "authors": [
+        {
+          "name": "García-Valdecasas Tenreiro, Eduardo",
+          "inspire_author_id": "1515314"
+        },
+        {
+          "name": "Uranga, Angel",
+          "inspire_author_id": "985203"
+        }
+      ],
+      "year": 2017,
+      "journal": {
+        "name": "JHEP",
+        "volume": "08",
+        "article": "061",
+        "year": 2017
+      },
+      "preprint_date": "2017-04-19",
+      "publication_date": "2017-08-17",
+      "arxiv_id": "1704.05888",
+      "doi": "10.1007/JHEP08(2017)061",
+      "links": {
+        "inspire": "https://inspirehep.net/literature/1593786",
+        "arxiv": "https://arxiv.org/abs/1704.05888",
+        "pdf": "https://arxiv.org/pdf/1704.05888",
+        "journal": "https://doi.org/10.1007/JHEP08%282017%29061"
+      },
+      "verification": "Bibliographic metadata checked against the INSPIRE author-linked literature record on 2026-10-26; journal articles also matched to all 18 CV arXiv IDs."
+    },
+    {
+      "id": "inspire-1465868",
+      "inspire_id": "1465868",
+      "type": "journal article",
+      "title": "On the 3-form formulation of axion potentials from D-brane instantons",
+      "authors": [
+        {
+          "name": "García-Valdecasas, Eduardo",
+          "inspire_author_id": "1515314"
+        },
+        {
+          "name": "Uranga, Angel",
+          "inspire_author_id": "985203"
+        }
+      ],
+      "year": 2017,
+      "journal": {
+        "name": "JHEP",
+        "volume": "02",
+        "article": "087",
+        "year": 2017
+      },
+      "preprint_date": "2016-05-25",
+      "publication_date": "2017-02-16",
+      "arxiv_id": "1605.08092",
+      "doi": "10.1007/JHEP02(2017)087",
+      "links": {
+        "inspire": "https://inspirehep.net/literature/1465868",
+        "arxiv": "https://arxiv.org/abs/1605.08092",
+        "pdf": "https://arxiv.org/pdf/1605.08092",
+        "journal": "https://doi.org/10.1007/JHEP02%282017%29087"
+      },
+      "verification": "Bibliographic metadata checked against the INSPIRE author-linked literature record on 2026-10-26; journal articles also matched to all 18 CV arXiv IDs."
+    }
+  ],
+  "teaching": [
+    {
+      "id": "quantum-mechanics-i",
+      "title_en": "Quantum Mechanics I",
+      "title_es": "Mecánica Cuántica I",
+      "institution": "Universidad Autónoma de Madrid",
+      "term": "Autumn 2018",
+      "academic_year": "2018/19",
+      "student_year": 3,
+      "hours": 15,
+      "role_en": "Problem-solving classes covering the full course syllabus",
+      "role_es": "Clases de problemas que cubrían el temario completo de la asignatura",
+      "code": "16407",
+      "year_taught": "2018/19",
+      "url": "https://secretaria-virtual.uam.es/doa/consultaPublica/look%5Bconpub%5DMostrarPubGuiaDocAs?_anoAcademico=2018&_codAsignatura=16407&entradaPublica=true&idiomaPais=es.ES",
+      "status": "Exact academic-year syllabus retrieved",
+      "topics_en": [
+        "Origins of quantum theory and wave-particle duality",
+        "Wave functions, Schrödinger equation and one-dimensional systems",
+        "Dirac formalism, observables, measurement and uncertainty",
+        "Quantum harmonic oscillator"
+      ],
+      "topics_es": [
+        "Orígenes de la teoría cuántica y dualidad onda-partícula",
+        "Funciones de onda, ecuación de Schrödinger y sistemas unidimensionales",
+        "Formalismo de Dirac, observables, medida e incertidumbre",
+        "Oscilador armónico cuántico"
+      ]
+    },
+    {
+      "id": "fundamentals-of-physics-iii",
+      "title_en": "Fundamentals of Physics III",
+      "title_es": "Fundamentos de Física III",
+      "institution": "Universidad Autónoma de Madrid",
+      "term": "Spring 2017",
+      "academic_year": "2016/17",
+      "student_year": 1,
+      "hours": 15,
+      "role_en": "Problem-solving classes covering the full course syllabus",
+      "role_es": "Clases de problemas que cubrían el temario completo de la asignatura",
+      "code": "16387",
+      "year_taught": "2016/17",
+      "historical_url_attempted": "https://secretaria-virtual.uam.es/doa/consultaPublica/look%5Bconpub%5DMostrarPubGuiaDocAs?_anoAcademico=2016&_codAsignatura=16387&entradaPublica=true&idiomaPais=es.ES",
+      "url": "https://secretaria-virtual.uam.es/doa/consultaPublica/look%5Bconpub%5DMostrarPubGuiaDocAs?_anoAcademico=2020&_codAsignatura=16387&entradaPublica=true&idiomaPais=es.ES",
+      "reference_year": "2020/21",
+      "status": "Historical 2016/17 request returns application error; later official syllabus used only as a topic reference",
+      "topics_en": [
+        "Relativity",
+        "Introductory quantum mechanics",
+        "Atomic, molecular and solid-state structure",
+        "Nuclear and particle physics",
+        "Astrophysics and cosmology"
+      ],
+      "topics_es": [
+        "Relatividad",
+        "Introducción a la mecánica cuántica",
+        "Estructura atómica, molecular y de sólidos",
+        "Física nuclear y de partículas",
+        "Astrofísica y cosmología"
+      ]
+    }
+  ],
+  "supervision": [
+    {
+      "student": "Leyre Garrido",
+      "thesis": "An Introduction to Supersymmetry",
+      "period": "2018–2019",
+      "co_supervisors": [
+        "Luis E. Ibáñez"
+      ],
+      "institution": "Universidad Autónoma de Madrid",
+      "level": "Bachelor thesis",
+      "source": "User-supplied CV"
+    },
+    {
+      "student": "Carlos Vega",
+      "thesis": "Quantum Field Theory and the Spin-Statistics Theorem",
+      "period": "2018–2019",
+      "co_supervisors": [
+        "Luis E. Ibáñez"
+      ],
+      "institution": "Universidad Autónoma de Madrid",
+      "level": "Bachelor thesis",
+      "source": "User-supplied CV"
+    },
+    {
+      "student": "José Manuel Cano",
+      "thesis": "Introducción a la teoría de cuerdas",
+      "period": "Spring 2018",
+      "co_supervisors": [
+        "Luis E. Ibáñez",
+        "Federico Carta"
+      ],
+      "institution": "Universidad Autónoma de Madrid",
+      "level": "Bachelor thesis",
+      "source": "User-supplied CV"
+    },
+    {
+      "student": "Daniel Oliveira",
+      "thesis": "Supersymmetry",
+      "period": "Spring 2018",
+      "co_supervisors": [
+        "Luis E. Ibáñez",
+        "Federico Carta"
+      ],
+      "institution": "Universidad Autónoma de Madrid",
+      "level": "Bachelor thesis",
+      "source": "User-supplied CV"
+    },
+    {
+      "student": "Gabriel Larios",
+      "thesis": "Supersymmetry and Fermions in Arbitrary Dimensions",
+      "period": "Spring 2017",
+      "co_supervisors": [
+        "Luis E. Ibáñez"
+      ],
+      "institution": "Universidad Autónoma de Madrid",
+      "level": "Bachelor thesis",
+      "source": "User-supplied CV"
+    },
+    {
+      "student": "Alvaro Garcia",
+      "thesis": "Relativistic Quantum Mechanics and Supersymmetry",
+      "period": "Spring 2017",
+      "co_supervisors": [
+        "Luis E. Ibáñez"
+      ],
+      "institution": "Universidad Autónoma de Madrid",
+      "level": "Bachelor thesis",
+      "source": "User-supplied CV"
+    }
+  ],
+  "talks": [
+    {
+      "id": "talk-01",
+      "title": "Higher-form entanglement asymmetry",
+      "source": "User-supplied CV",
+      "cv_entry": "“Higher-form entanglement asymmetry\". Developments on Generalized Symmetries of Quantum Systems. May 12 2026. Murcia University, Murcia, Spain.",
+      "index": 1,
+      "date": "2026-05-12",
+      "institution": "Universidad de Murcia",
+      "event_url": "https://indico.global/event/16681/contributions/154369/",
+      "status": "public event verified",
+      "materials_note": "Event page explicitly says there are no materials yet."
+    },
+    {
+      "id": "talk-02",
+      "title": "Entanglement asymmetry and spontaneous symmetry breaking",
+      "source": "User-supplied CV",
+      "cv_entry": "“Entanglement asymmetry and spontaneous symmetry breaking\". Iberian Strings 2026. January 21 2026. Santiago de Compostela University, Santiago de Compostela, Spain.",
+      "index": 2,
+      "date": "2026-01-21",
+      "institution": "Universidade de Santiago de Compostela / IGFAE",
+      "event_url": "https://indico.global/event/15787/contributions/143529/",
+      "status": "public event verified",
+      "materials_note": "Event page explicitly says there are no materials yet."
+    },
+    {
+      "id": "talk-03",
+      "title": "Entanglement asymmetry and spontaneous symmetry breaking",
+      "source": "User-supplied CV",
+      "cv_entry": "“Entanglement asymmetry and spontaneous symmetry breaking\". Seminar. January 19 2026. Oviedo University, Oviedo, Spain.",
+      "index": 3,
+      "date": "2026-01-19",
+      "institution": "Universidad de Oviedo",
+      "event_url": "https://www.unioviedo.es/hepth/activities/index.html",
+      "status": "public event verified",
+      "official_title": "Entanglement asymmetry and the limits of symmetry breaking",
+      "note": "Official title varies from the CV; retain both versions for editorial choice."
+    },
+    {
+      "id": "talk-04",
+      "title": "Entanglement asymmetry and spontaneous symmetry breaking",
+      "source": "User-supplied CV",
+      "cv_entry": "“Entanglement asymmetry and spontaneous symmetry breaking\". Seminar. January 14 2026. Universidad de Barcelona, Barcelona, Spain.",
+      "index": 4,
+      "date": "2026-01-14",
+      "institution": "Universitat de Barcelona / ICCUB",
+      "event_url": "https://icc.ub.edu/event/entanglement-asymmetry-and-spontaneously-broken-symmetries",
+      "status": "public event verified",
+      "official_title": "Entanglement asymmetry and spontaneously broken symmetries"
+    },
+    {
+      "id": "talk-05",
+      "title": "Entanglement asymmetry and spontaneous symmetry breaking",
+      "source": "User-supplied CV",
+      "cv_entry": "“Entanglement asymmetry and spontaneous symmetry breaking\". Joint UCM and IFT seminar. October 28 2025. IFT, Madrid, Spain.",
+      "index": 5,
+      "date": "2025-10-28",
+      "institution": "IFT UAM-CSIC / joint UCM-IFT seminar",
+      "event_url": "https://www.ift.uam-csic.es/event/seminar-by-eduardo-garcia-valdecasas/",
+      "status": "public event verified",
+      "official_title": "Entanglement asymmetry and spontaneously broken symmetries"
+    },
+    {
+      "id": "talk-06",
+      "title": "The Strong CP problem and instantonic symmetries",
+      "source": "User-supplied CV",
+      "cv_entry": "“The Strong CP problem and instantonic symmetries\". Meeting of the WG1 of the COST Action Cosmic WISPers. December 9th 2024, online.",
+      "index": 6,
+      "date": "2024-12-09",
+      "institution": "Cosmic WISPers COST Action, WG1",
+      "event_url": "https://agenda.infn.it/event/44231/contributions/248607/",
+      "slides_url": "https://agenda.infn.it/event/44231/contributions/248607/attachments/129293/191804/AxionTalk%20%281%29.pdf",
+      "status": "public event and slides verified"
+    },
+    {
+      "id": "talk-07",
+      "title": "Symmetry operators in holography",
+      "source": "User-supplied CV",
+      "cv_entry": "“Symmetry operators in holography\". Meeting PRIN \"String Theory as a bridge between Gauge Theories and Quantum Gravity\". November 16th 2024, Bra, Italy.",
+      "index": 7,
+      "date": "2024-11-16",
+      "institution": "PRIN meeting, Bra",
+      "event_url": "https://agenda.infn.it/event/43564/timetable/?view=standard_numbered#12-symmetry-operators-in-holog",
+      "status": "public timetable verifies speaker and title",
+      "note": "Use the timetable; a nearby contribution URL 247240 belongs to a different speaker and must not be used."
+    },
+    {
+      "id": "talk-08",
+      "title": "Non-BPS branes and continuous symmetries",
+      "source": "User-supplied CV",
+      "cv_entry": "“Non-BPS branes and continuous symmetries\". Theory seminar. November 14th 2024, Università degli Studi di Milano Statale, Milan, Italy.",
+      "index": 8,
+      "date": "2024-11-14",
+      "institution": "Università degli Studi di Milano",
+      "event_url": "https://www0.mi.infn.it/~strings/pastseminars.php",
+      "status": "public event verified"
+    },
+    {
+      "id": "talk-09",
+      "title": "Non-BPS branes and continuous symmetries",
+      "source": "User-supplied CV",
+      "cv_entry": "“Non-BPS branes and continuous symmetries\". Theory seminar. November 5th 2024, Universidad de La Plata, Argentina (online).",
+      "index": 9,
+      "date": "2024-11-05",
+      "institution": "Universidad Nacional de La Plata (online)",
+      "status": "user CV; public event link not located"
+    },
+    {
+      "id": "talk-10",
+      "title": "Non-BPS branes and continuous symmetries",
+      "source": "User-supplied CV",
+      "cv_entry": "“Non-BPS branes and continuous symmetries\". Journal Club. July 10th 2024, Oviedo University, Oviedo, Spain.",
+      "index": 10,
+      "date": "2024-07-10",
+      "institution": "Universidad de Oviedo, journal club",
+      "status": "user CV; public event link not located"
+    },
+    {
+      "id": "talk-11",
+      "title": "Spontaneous Breaking of (-1)-form U(1) “Symmetries",
+      "source": "User-supplied CV",
+      "cv_entry": "“Spontaneous Breaking of (-1)-form U(1) “Symmetries”\". Oviedo Theory Seminar. July 9th 2024, Oviedo University, Oviedo, Spain.",
+      "index": 11,
+      "date": "2024-07-09",
+      "institution": "Universidad de Oviedo",
+      "event_url": "https://www.unioviedo.es/hepth/activities/index.html",
+      "status": "public event verified"
+    },
+    {
+      "id": "talk-12",
+      "title": "Spontaneous Breaking of (-1)-form U(1) “Symmetries",
+      "source": "User-supplied CV",
+      "cv_entry": "“Spontaneous Breaking of (-1)-form U(1) “Symmetries”\". String Math 2024. June 13th 2024, ICTP Trieste, Trieste, Italy.",
+      "index": 12,
+      "date": "2024-06-13",
+      "institution": "String-Math 2024, ICTP",
+      "event_url": "https://indico.ictp.it/event/10482/session/11/",
+      "abstracts_url": "https://indico.ictp.it/event/10482/material/11/0.pdf",
+      "poster_list_url": "https://indico.ictp.it/event/10482/material/13/0.pdf",
+      "status": "speaker and session publicly verified",
+      "official_title": "Exploring the spontaneous and explicit braking of (-1)-form symmetries.",
+      "note": "The official lists use this alternate title, including the apparent typo 'braking'. Session time covers several speakers, so do not assign its full duration to this talk."
+    },
+    {
+      "id": "talk-13",
+      "title": "Spontaneously broken (-1)-form U(1) symmetries",
+      "source": "User-supplied CV",
+      "cv_entry": "“Spontaneously broken (-1)-form U(1) symmetries\". Swampland Seminar Series. March 12th, 2024. Virtual.",
+      "index": 13,
+      "date": "2024-03-12",
+      "institution": "Swampland Seminar Series (online)",
+      "event_url": "https://sites.google.com/view/swamplandseminars/list-of-seminars",
+      "video_url": "https://www.youtube.com/watch?v=McXddd2X590",
+      "status": "event and recording verified",
+      "note": "Talk date is 12 March 2024; YouTube upload date is 23 April 2024."
+    },
+    {
+      "id": "talk-14",
+      "title": "Breaking lower form symmetries",
+      "source": "User-supplied CV",
+      "cv_entry": "“Breaking lower form symmetries\". String Theory as a bridge between Gauge Theories and Quantum Gravity. Oct 19th, 2023. Sapienza University, Rome, Italy.",
+      "index": 14,
+      "date": "2023-10-19",
+      "institution": "4th PRIN meeting, Sapienza, Rome",
+      "event_url": "https://agenda.infn.it/event/37495/",
+      "status": "event dates located; individual contribution not yet verified"
+    },
+    {
+      "id": "talk-15",
+      "title": "Non-Invertible Symmetries in Supergravity",
+      "source": "User-supplied CV",
+      "cv_entry": "“Non-Invertible Symmetries in Supergravity\". HET Seminar Series. Sept 8th, 2023. Boston University, Boston, United States.",
+      "index": 15,
+      "date": "2023-09-08",
+      "institution": "Boston University",
+      "status": "user CV; direct public event link not located"
+    },
+    {
+      "id": "talk-16",
+      "title": "Lower Form Symmetry and the Strong CP Problem",
+      "source": "User-supplied CV",
+      "cv_entry": "“Lower Form Symmetry and the Strong CP Problem\". Theory Seminar Series. Sept 5th, 2023. Northeastern University, Boston, United States.",
+      "index": 16,
+      "date": "2023-09-05",
+      "institution": "Northeastern University",
+      "event_url": "https://ruehlef.github.io/seminars.html",
+      "status": "organizer's seminar archive verifies title and date"
+    },
+    {
+      "id": "talk-17",
+      "title": "Non-Invertible Symmetries in Supergravity",
+      "source": "User-supplied CV",
+      "cv_entry": "“Non-Invertible Symmetries in Supergravity\". Quantum/Gravity Seminar. Feb 28th, 2023. Brandais University, Boston, United States.",
+      "index": 17,
+      "date": "2023-02-28",
+      "institution": "Brandeis University",
+      "event_url": "https://www.brandeis.edu/physics/hegt/seminars/archive.html",
+      "status": "public university archive verifies title and date"
+    },
+    {
+      "id": "talk-18",
+      "title": "Non-Invertible Symmetries in Supergravity",
+      "source": "User-supplied CV",
+      "cv_entry": "“Non-Invertible Symmetries in Supergravity\". Swampland Journal Club. Jan 27th, 2023. Harvard University, Cambridge, United States.",
+      "index": 18,
+      "date": "2023-01-27",
+      "institution": "Harvard University, Swampland Journal Club",
+      "status": "user CV; public event link not located"
+    },
+    {
+      "id": "talk-19",
+      "title": "Non-invertible Symmetries in 5d Chern-Simons theories",
+      "source": "User-supplied CV",
+      "cv_entry": "“Non-invertible Symmetries in 5d Chern-Simons theories\". String Theory Journal Club. Nov 10th, 2022. Oxford University, Oxford, United Kingdom. (Remote)",
+      "index": 19,
+      "date": "2022-11-10",
+      "institution": "University of Oxford (remote)",
+      "event_url": "https://www.maths.ox.ac.uk/node/61365",
+      "status": "public event verified"
+    },
+    {
+      "id": "talk-20",
+      "title": "Dynamical Supersymmetry Breaking in Holography",
+      "source": "User-supplied CV",
+      "cv_entry": "“Dynamical Supersymmetry Breaking in Holography\". Swampland Journal Club. Oct 14th, 2022. Harvard University, Cambridge, United States.",
+      "index": 20,
+      "date": "2022-10-14",
+      "institution": "Harvard University, Swampland Journal Club",
+      "status": "user CV; public event link not located"
+    },
+    {
+      "id": "talk-21",
+      "title": "An status update on the Swampland",
+      "source": "User-supplied CV",
+      "cv_entry": "“An status update on the Swampland\". Belgian HEP meeting 2020. June 22nd, 2020. Antwerpen University, Antwerpen, Belgium. (Remote)",
+      "index": 21,
+      "date": "2020-06-22",
+      "institution": "Belgian HEP meeting (online)",
+      "event_url": "https://agenda.irmp.ucl.ac.be/event/3998/",
+      "programme_url": "https://agenda.irmp.ucl.ac.be/event/3998/sessions/1902/session-timetable.pdf",
+      "official_title": "Recent developments in the String Swampland/Landscape",
+      "status": "public programme verifies speaker and slot",
+      "note": "The CV instead calls the talk 'An status update on the Swampland'. Do not assume identical titles without preserving this discrepancy."
+    },
+    {
+      "id": "talk-22",
+      "title": "A Landscape of SUSY Breaking Instabilities",
+      "source": "User-supplied CV",
+      "cv_entry": "“A Landscape of SUSY Breaking Instabilities\". III GRASS family and friends \"almond tree\" Meeting. December 19th, 2019. IFT UAM/CSIC, Madrid, Spain.",
+      "index": 22,
+      "date": "2019-12-19",
+      "institution": "III GRASS family and friends almond tree meeting, IFT",
+      "event_url": "https://workshops.ift.uam-csic.es/IIIGRASS/program",
+      "status": "programme located in official IFT workshop archive"
+    },
+    {
+      "id": "talk-23",
+      "title": "A Landscape of SUSY Breaking Instabilities",
+      "source": "User-supplied CV",
+      "cv_entry": "“A Landscape of SUSY Breaking Instabilities\". Service Day 2019. November 07th, 2019. ULB, Brussels, Belgium.",
+      "index": 23,
+      "date": "2019-11-07",
+      "institution": "ULB, Service Day 2019",
+      "status": "user CV; public event link not located"
+    },
+    {
+      "id": "talk-24",
+      "title": "On the Stability of non-SUSY Warped Throats",
+      "source": "User-supplied CV",
+      "cv_entry": "“On the Stability of non-SUSY Warped Throats\". String Phenomenology 2019. June 25th, 2019. CERN, Geneva, Switzerland.",
+      "index": 24,
+      "date": "2019-06-25",
+      "institution": "String Phenomenology 2019, CERN",
+      "event_url": "https://indico.cern.ch/event/782251/contributions/3442258/",
+      "slides_url": "https://indico.cern.ch/event/782251/contributions/3442258/attachments/1869053/3074779/4_Valdecasas.pdf",
+      "video_url": "https://cds.cern.ch/record/2680854",
+      "official_title": "On the stability of SUSY breaking Warped Throats.",
+      "status": "event page, slides link and recording link verified",
+      "note": "The recording link is provided by CERN's event page; playback was not tested."
+    },
+    {
+      "id": "talk-25",
+      "title": "From D-brane Instantons to Bipartite Field Theories",
+      "source": "User-supplied CV",
+      "cv_entry": "“From D-brane Instantons to Bipartite Field Theories\". String Phenomenology 2018. July 4th, 2018. Warsaw University, Warsaw, Poland.",
+      "index": 25,
+      "date": "2018-07-04",
+      "institution": "String Phenomenology 2018, University of Warsaw",
+      "event_url": "https://inspirehep.net/conferences/1654535",
+      "status": "event record located; individual contribution not verified"
+    },
+    {
+      "id": "talk-26",
+      "title": "Stringy Instantons, Backreaction and Dimers",
+      "source": "User-supplied CV",
+      "cv_entry": "“Stringy Instantons, Backreaction and Dimers\". VI Postgraduate Meeting on Theoretical Physics. November 30th, 2017. Valencia University, Valencia, Spain.",
+      "index": 26,
+      "date": "2017-11-30",
+      "institution": "VI Postgraduate Meeting on Theoretical Physics, Valencia",
+      "event_url": "https://www.uv.es/blackholes/PGTh_2017/Abstracts.html",
+      "status": "official abstracts page verifies speaker and subject; precise date from CV",
+      "official_title": "Instantons, dimers and Bipartite Field Theories.",
+      "note": "Official abstract title differs from the title used in the CV; both versions have been retained."
+    },
+    {
+      "id": "talk-27",
+      "title": "Stringy Instantons, Backreaction and Dimers",
+      "source": "User-supplied CV",
+      "cv_entry": "“Stringy Instantons, Backreaction and Dimers\". String Phenomenology 2017. July 6th, 2017. Virginia Tech, Blacksburg, USA.",
+      "index": 27,
+      "date": "2017-07-06",
+      "institution": "String Phenomenology 2017, Virginia Tech",
+      "status": "user CV; individual public contribution link not located"
+    },
+    {
+      "id": "talk-28",
+      "title": "Stringy Instantons, Deformed Geometry and Axions",
+      "source": "User-supplied CV",
+      "cv_entry": "“Stringy Instantons, Deformed Geometry and Axions\". Iberian Strings 2017. January 16th, 2017. Lisbon University, Lisbon, Portugal",
+      "index": 28,
+      "date": "2017-01-16",
+      "institution": "Iberian Strings 2017, Lisbon",
+      "event_url": "https://ibstrings2017.math.tecnico.ulisboa.pt/abstracts",
+      "slides_url": "https://math.tecnico.ulisboa.pt/seminars/download.php?fid=152",
+      "status": "official abstract and slides link verified; precise talk date from CV"
+    },
+    {
+      "id": "talk-29",
+      "title": "3-Forms, Axions and D-brane Instantons",
+      "source": "User-supplied CV",
+      "cv_entry": "“3-Forms, Axions and D-brane Instantons\". CPAN 2016. November 28th, 2016. Zaragoza University, Zaragoza, Spain",
+      "index": 29,
+      "date": "2016-11-28",
+      "institution": "VIII CPAN Days, Zaragoza",
+      "status": "user CV; individual public contribution link not located"
+    },
+    {
+      "id": "talk-30",
+      "title": "3-Forms, Axions and D-brane Instantons",
+      "source": "User-supplied CV",
+      "cv_entry": "“3-Forms, Axions and D-brane Instantons\". V Postgraduate Meeting on Theoretical Physics. November 18th, 2016. Oviedo University, Oviedo, Spain",
+      "index": 30,
+      "date": "2016-11-18",
+      "institution": "V Postgraduate Meeting on Theoretical Physics, Oviedo",
+      "slides_url": "https://www.unioviedo.es/hepth/activities/postgrad/Slides/Eduardo_Garcia.pdf",
+      "status": "university-hosted slides located; precise date from CV"
+    },
+    {
+      "id": "talk-31",
+      "title": "Axions, Instantons and Backreaction in String Theory",
+      "source": "User-supplied CV",
+      "cv_entry": "“Axions, Instantons and Backreaction in String Theory\". Seminar at the PhD Forum. October 27th, 2016. IFT, Madrid, Spain",
+      "index": 31,
+      "date": "2016-10-27",
+      "institution": "IFT PhD Forum, Madrid",
+      "status": "user CV; individual public contribution link not located"
+    }
+  ],
+  "outreach": [
+    {
+      "id": "MBBukUbKL_Q",
+      "title": "¿Conoces las teorías topológicas?",
+      "url": "https://www.youtube.com/watch?v=MBBukUbKL_Q",
+      "embed_url": "https://www.youtube.com/embed/MBBukUbKL_Q",
+      "channel": "Instituto de Física Teórica IFT",
+      "language": "es",
+      "upload_date": "2019-06-18",
+      "duration_seconds": 450,
+      "embed_allowed_at_check": true,
+      "attribution": "IFT video description explicitly names Eduardo García-Valdecasas as the explaining researcher.",
+      "summary_en": "An introduction to topological field theories and physical properties that are robust under continuous deformations.",
+      "summary_es": "Introducción a las teorías de campos topológicas y a propiedades físicas robustas frente a deformaciones continuas.",
+      "source_metadata_url": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=MBBukUbKL_Q&format=json"
+    },
+    {
+      "id": "DypkbS_Am0s",
+      "title": "¿Podría la gravedad escapar de nuestro universo?",
+      "url": "https://www.youtube.com/watch?v=DypkbS_Am0s",
+      "embed_url": "https://www.youtube.com/embed/DypkbS_Am0s",
+      "channel": "Instituto de Física Teórica IFT",
+      "language": "es",
+      "upload_date": "2020-01-08",
+      "duration_seconds": 374,
+      "embed_allowed_at_check": true,
+      "attribution": "IFT video description explicitly names Eduardo García-Valdecasas as the explaining researcher.",
+      "summary_en": "An explanation of the possibility that gravity propagates through additional dimensions.",
+      "summary_es": "Explicación de la posibilidad de que la gravedad se propague por dimensiones adicionales.",
+      "source_metadata_url": "https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=DypkbS_Am0s&format=json"
+    }
+  ],
+  "recorded_talks": [
+    {
+      "id": "McXddd2X590",
+      "title": "Eduardo García-Valdecasas (SISSA): Spontaneous breaking of (-1)-form U(1) symmetries",
+      "url": "https://www.youtube.com/watch?v=McXddd2X590",
+      "channel": "Swampland Seminars",
+      "language": "en",
+      "upload_date": "2024-04-23",
+      "duration_seconds": 3618,
+      "embed_allowed_at_check": true,
+      "event_date": "2024-03-12",
+      "note": "Seminar date verified from the organizer’s archive; upload date differs."
+    },
+    {
+      "id": "orgUke-Brgs",
+      "title": "Eduardo Garcia-Valdecasas - Non invertible symmetries in supergravity",
+      "url": "https://www.youtube.com/watch?v=orgUke-Brgs",
+      "channel": "String Pheno Seminars",
+      "language": "en",
+      "upload_date": "2023-03-14",
+      "duration_seconds": 2057,
+      "embed_allowed_at_check": true,
+      "event_date": null,
+      "note": "Event date not established; only upload date is known."
+    }
+  ],
+  "research_themes": [
+    {
+      "en": "Generalized symmetries and quantum gravity",
+      "es": "Simetrías generalizadas y gravedad cuántica",
+      "summary_en": "Higher-form, instantonic and non-invertible symmetries, including their realization or breaking in string theory and supergravity.",
+      "summary_es": "Simetrías de formas superiores, instantónicas y no invertibles, y su realización o ruptura en teoría de cuerdas y supergravedad.",
+      "papers": [
+        "2402.00117",
+        "2408.00067",
+        "2301.00777",
+        "2207.02831"
+      ],
+      "status": "Editorial grouping inferred from the publication record; not a claim of a formally named project."
+    },
+    {
+      "en": "Holography, branes and gauge dynamics",
+      "es": "Holografía, branas y dinámica de teorías gauge",
+      "summary_en": "Holographic descriptions of symmetry operators, SymTFTs, non-BPS branes, finite duality cascades and confinement.",
+      "summary_es": "Descripciones holográficas de operadores de simetría, SymTFTs, branas no BPS, cascadas finitas de dualidades y confinamiento.",
+      "papers": [
+        "2508.00992",
+        "2407.00773",
+        "2506.18988",
+        "2606.16630"
+      ],
+      "status": "Editorial grouping inferred from the publication record; not a claim of a formally named project."
+    },
+    {
+      "en": "Entanglement and symmetry breaking",
+      "es": "Entrelazamiento y ruptura de simetrías",
+      "summary_en": "Entanglement asymmetry as a quantitative probe of spontaneous breaking of ordinary and higher-form symmetries.",
+      "summary_es": "La asimetría de entrelazamiento como herramienta cuantitativa para estudiar la ruptura espontánea de simetrías ordinarias y de formas superiores.",
+      "papers": [
+        "2512.15898"
+      ],
+      "status": "Editorial grouping inferred from the publication record; not a claim of a formally named project."
+    },
+    {
+      "en": "String vacua, instantons and supersymmetry breaking",
+      "es": "Vacíos de cuerdas, instantones y ruptura de supersimetría",
+      "summary_en": "D-brane instanton backreaction, axion potentials, dimers, orientifolds and the stability of supersymmetry-breaking string backgrounds.",
+      "summary_es": "Retroacción de instantones de D-branas, potenciales axiónicos, dímeros, orientifolds y estabilidad de fondos de cuerdas con ruptura de supersimetría.",
+      "papers": [
+        "1605.08092",
+        "1704.05888",
+        "1805.00011",
+        "1810.07673",
+        "2005.09671",
+        "2207.00525"
+      ],
+      "status": "Editorial grouping inferred from the publication record; not a claim of a formally named project."
+    }
+  ],
+  "materials": [],
+  "updated": "2026-10-26"
+}

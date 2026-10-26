@@ -1,0 +1,6 @@
+dist/
+source/_site/
+source/.quarto/
+node_modules/
+.DS_Store
+Thumbs.db

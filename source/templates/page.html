@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="$lang$">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <title>$pagetitle$</title>
+  <meta name="description" content="$description$">
+  <meta name="author" content="Eduardo García-Valdecasas">
+  <link rel="canonical" href="$page-url$">
+  <link rel="alternate" hreflang="en" href="$english-url$">
+  <link rel="alternate" hreflang="es" href="$spanish-url$">
+  <link rel="alternate" hreflang="x-default" href="$english-url$">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="$pagetitle$">
+  <meta property="og:description" content="$description$">
+  <meta property="og:url" content="$page-url$">
+  <meta property="og:image" content="https://eduardo-garcia-valdecasas.github.io/assets/portrait.jpg">
+  <link rel="icon" type="image/svg+xml" href="$prefix$assets/favicon.svg">
+  <link rel="stylesheet" href="$prefix$assets/site.css">
+  <script src="$prefix$assets/site.js" defer></script>
+  <noscript><style>@media(max-width:650px){.primary-navigation{display:flex}.menu-toggle{display:none}}</style></noscript>
+$for(header-includes)$
+  $header-includes$
+$endfor$
+</head>
+<body data-page="$page-id$" data-language="$lang$">
+  <a class="skip-link" href="#main">$skip-label$</a>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="identity" href="$prefix$$home-path$" aria-label="Eduardo García-Valdecasas — $me-label$">
+        <svg class="identity-mark" viewBox="0 0 36 36" fill="none" aria-hidden="true"><circle cx="18" cy="18" r="13.5"/><ellipse cx="18" cy="18" rx="6" ry="13.5" transform="rotate(45 18 18)"/><path d="M5 18h26M18 4.5v27"/></svg>
+        <span>Eduardo<br><strong>García-Valdecasas</strong></span>
+      </a>
+      <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="primary-navigation"><span>$menu-label$</span><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 8h16M4 16h16"/></svg></button>
+      <nav id="primary-navigation" class="primary-navigation" aria-label="$nav-label$">
+        <a href="$prefix$$home-path$"$if(active-me)$ aria-current="page"$endif$>$me-label$</a>
+        <a href="$prefix$$research-path$"$if(active-research)$ aria-current="page"$endif$>$research-label$</a>
+        <a href="$prefix$$teaching-path$"$if(active-teaching)$ aria-current="page"$endif$>$teaching-label$</a>
+        <a href="$prefix$$outreach-path$"$if(active-outreach)$ aria-current="page"$endif$>$outreach-label$</a>
+        <a href="$prefix$$talks-path$"$if(active-talks)$ aria-current="page"$endif$>$talks-label$</a>
+      </nav>
+      <nav class="language-switch" aria-label="$language-label$">
+        <a href="$english-local$" lang="en" hreflang="en"$if(english-active)$ aria-current="true"$endif$>EN</a>
+        <span aria-hidden="true">/</span>
+        <a href="$spanish-local$" lang="es" hreflang="es"$if(spanish-active)$ aria-current="true"$endif$>ES</a>
+      </nav>
+    </div>
+  </header>
+  <main id="main" tabindex="-1">
+$body$
+  </main>
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <div><a class="footer-name" href="$prefix$$home-path$">Eduardo García-Valdecasas</a><p>Física Aplicada · ETSIAE · UPM</p></div>
+      <nav aria-label="$profile-label$"><a href="https://inspirehep.net/authors/1515314">INSPIRE <span aria-hidden="true">↗</span></a><a href="https://orcid.org/0000-0003-1458-373X">ORCID <span aria-hidden="true">↗</span></a><a href="mailto:eduardo.garcia.valdecasas@gmail.com">Email <span aria-hidden="true">↗</span></a></nav>
+      <p class="copyright">© 2026 · Madrid</p>
+    </div>
+  </footer>
+</body>
+</html>
