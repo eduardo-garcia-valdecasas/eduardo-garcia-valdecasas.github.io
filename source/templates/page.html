@@ -17,8 +17,8 @@
   <meta property="og:url" content="$page-url$">
   <meta property="og:image" content="https://eduardo-garcia-valdecasas.github.io/assets/portrait.jpg">
   <link rel="icon" type="image/svg+xml" href="$prefix$assets/favicon.svg">
-  <link rel="stylesheet" href="$prefix$assets/site.css">
-  <script src="$prefix$assets/site.js" defer></script>
+  <link rel="stylesheet" href="$prefix$assets/site.css?v=$asset-version$">
+  <script src="$prefix$assets/site.js?v=$asset-version$" defer></script>
   <noscript><style>@media(max-width:650px){.primary-navigation{display:flex}.menu-toggle{display:none}}</style></noscript>
 $for(header-includes)$
   $header-includes$
@@ -53,7 +53,7 @@ $body$
   <footer class="site-footer">
     <div class="footer-inner">
       <div><a class="footer-name" href="$prefix$$home-path$">Eduardo García-Valdecasas</a><p>Física Aplicada · ETSIAE · UPM</p></div>
-      <nav aria-label="$profile-label$"><a href="https://inspirehep.net/authors/1515314">INSPIRE <span aria-hidden="true">↗</span></a><a href="https://orcid.org/0000-0003-1458-373X">ORCID <span aria-hidden="true">↗</span></a><a href="mailto:eduardo.garcia.valdecasas@gmail.com">Email <span aria-hidden="true">↗</span></a></nav>
+      <nav aria-label="$profile-label$"><a href="https://inspirehep.net/authors/1515314">INSPIRE <span aria-hidden="true">↗</span></a><a href="https://orcid.org/0000-0003-1458-373X">ORCID <span aria-hidden="true">↗</span></a><a class="protected-email" href="mailto:" data-contact="$contact-code$">$email-label$ <span aria-hidden="true">↗</span></a></nav>
       <p class="copyright">© 2026 · Madrid</p>
     </div>
   </footer>

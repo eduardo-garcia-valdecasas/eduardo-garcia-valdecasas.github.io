@@ -4,7 +4,7 @@ English: <https://eduardo-garcia-valdecasas.github.io/>
 
 Español: <https://eduardo-garcia-valdecasas.github.io/es/>
 
-A bilingual Quarto website hosted free on GitHub Pages. The five pages are Me, Research, Teaching, Outreach and Talks. Both contact forms deliver to eduardo.garcia.valdecasas@gmail.com through FormSubmit.
+A bilingual Quarto website hosted free on GitHub Pages. The five pages are Me, Research, Teaching, Outreach and Talks. The PhD and outreach sections provide protected email links.
 
 ## Updating the content
 
@@ -49,11 +49,13 @@ The built site appears in `dist/`. Preview it at `http://127.0.0.1:4321`. `QUART
 
 To publish an update with the existing GitHub Pages setup, copy the contents of `dist/` to the repository root, keeping `source/` and `scripts/`, then commit and push to `main`. The existing GitHub Pages deployment publishes the root automatically. The generated `.nojekyll` file is required. Nothing requires a paid hosting plan.
 
-## Contact forms
+## Protected email links
 
-Both forms use FormSubmit, with separate email subjects for PhD enquiries and outreach invitations. FormSubmit requires recipient verification before delivery; follow the activation email if the address or website origin changes. Native required fields and a honeypot provide basic validation and spam reduction. The forms display a delivery error when the service does not confirm success, and a direct email link is always visible. No attachments are requested; prospective students can share a CV link.
+The contact address is encoded in `source/data/content.json`. The browser assembles a `mailto:` link only when a visitor clicks an email link. PhD and outreach links prefill distinct subjects. A readable, obfuscated fallback is available without JavaScript. The current rendered pages and source files do not contain the plain email address.
 
-FormSubmit and YouTube are external services with their own availability and privacy policies. Hosting remains static and free. GitHub Pages does not run server-side application code.
+This deters basic email-harvesting bots. A public contact method cannot prevent all automated collection. No form service, registration, activation email or backend is needed. To change the contact address, update `contact_code` using the same character encoding as the click handler in `source/assets/site.js`.
+
+YouTube is an external service with its own availability and privacy policy. Hosting remains static and free.
 
 ## Content sources
 

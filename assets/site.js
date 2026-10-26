@@ -2,9 +2,9 @@
   'use strict';
   const es = document.documentElement.lang.startsWith('es');
   const words = es ? {
-    sending:'Enviando…',sent:'Gracias. Tu mensaje se ha enviado correctamente.',failed:'No se ha podido enviar el mensaje. Puedes escribir directamente por correo electrónico.',activation:'El envío de mensajes está pendiente de verificación. Por favor, utiliza el enlace de correo electrónico.',showing:(n,total)=>`${n} de ${total} resultados`,none:'No hay resultados para esta búsqueda.'
+    showing:(n,total)=>`${n} de ${total} resultados`,none:'No hay resultados para esta búsqueda.'
   } : {
-    sending:'Sending…',sent:'Thank you. Your message has been sent.',failed:'The message could not be sent. You can email me directly using the link alongside the form.',activation:'Message delivery is awaiting verification. Please use the email link instead.',showing:(n,total)=>`${n} of ${total} results`,none:'No results match this search.'
+    showing:(n,total)=>`${n} of ${total} results`,none:'No results match this search.'
   };
   const toggle = document.querySelector('.menu-toggle');
   const navigation = document.querySelector('#primary-navigation');
@@ -57,28 +57,11 @@
     iframe.allowFullscreen=true;iframe.referrerPolicy='strict-origin-when-cross-origin';
     player.append(iframe);button.replaceWith(player);iframe.focus();
   }));
-  document.querySelectorAll('.contact-form').forEach(form=>{
-    const status=form.querySelector('.form-status');
-    const submit=form.querySelector('button[type="submit"]');
-    const defaultLabel=submit?.innerHTML;
-    form.addEventListener('submit',async event=>{
-      event.preventDefault();
-      if(!form.reportValidity())return;
-      if(form.elements.namedItem('_honey')?.value)return;
-      status.textContent=words.sending;status.classList.remove('error');submit.disabled=true;
-      const payload=Object.fromEntries(new FormData(form));
-      payload._url=location.href;
-      try {
-        const response=await fetch(form.action.replace('formsubmit.co/','formsubmit.co/ajax/'),{
-          method:'POST',headers:{'Content-Type':'application/json','Accept':'application/json'},body:JSON.stringify(payload)
-        });
-        const result=await response.json();
-        if(!response.ok || ![true,'true'].includes(result.success))throw new Error('Delivery failed');
-        if(/activat|verif|confirm your email/i.test(result.message??'')){
-          status.textContent=words.activation;status.classList.add('error');
-        }else{status.textContent=words.sent;form.reset();}
-      } catch { status.textContent=words.failed;status.classList.add('error'); }
-      finally {submit.disabled=false;submit.innerHTML=defaultLabel;}
+  document.querySelectorAll('[data-contact]').forEach(link=>{
+    link.addEventListener('click',()=>{
+      const address=link.dataset.contact.split('.').map(n=>String.fromCharCode(parseInt(n,36)^73)).join('');
+      const subject=link.dataset.subject;
+      link.href='mailto:'+address+(subject?'?subject='+encodeURIComponent(subject):'');
     });
   });
 })();

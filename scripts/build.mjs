@@ -14,7 +14,7 @@ const rendered=spawnSync(quarto,['render',source],{stdio:'inherit'});
 if(rendered.status!==0)process.exit(rendered.status??1);
 await fs.mkdir(output,{recursive:true});
 await fs.cp(path.join(source,'_site'),output,{recursive:true});
-for(const lang of ['', 'es/'])for(const page of ['index','research','teaching','outreach','talks','thanks','404']){
+for(const lang of ['', 'es/'])for(const page of ['index','research','teaching','outreach','talks','404']){
  const file=path.join(output,lang,page+'.html');
  let html=await fs.readFile(file,'utf8');
  html='<!doctype html>\n'+html.replace(/^\s*<!doctype html>\s*/i,'');
