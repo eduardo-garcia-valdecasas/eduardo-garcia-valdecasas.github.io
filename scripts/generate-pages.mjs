@@ -31,7 +31,7 @@ const I={
       "Holography"
     ],
     "profile": "Academic background",
-    "profileIntro": "My research has taken me from Madrid to London, Brussels, Harvard and Trieste, and back to Madrid.",
+    "profileIntro": "My research has taken me from Madrid to London, Brussels, Boston and Trieste, and back to Madrid.",
     "current": "2026 —",
     "professor": "Assistant Professor",
     "dept": "Applied Physics · ETSIAE",
@@ -157,7 +157,7 @@ const I={
       "Holografía"
     ],
     "profile": "Trayectoria académica",
-    "profileIntro": "La investigación me ha llevado de Madrid a Londres, Bruselas, Harvard y Trieste, y de vuelta a Madrid.",
+    "profileIntro": "La investigación me ha llevado de Madrid a Londres, Bruselas, Boston y Trieste, y de vuelta a Madrid.",
     "current": "2026 —",
     "professor": "Profesor ayudante doctor",
     "dept": "Física Aplicada · ETSIAE",
