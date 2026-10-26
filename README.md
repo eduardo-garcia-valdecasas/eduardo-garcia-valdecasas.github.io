@@ -4,7 +4,7 @@ English: <https://eduardo-garcia-valdecasas.github.io/>
 
 Español: <https://eduardo-garcia-valdecasas.github.io/es/>
 
-A bilingual Quarto website hosted free on GitHub Pages. The five pages are Me, Research, Teaching, Outreach and Talks. The PhD and outreach sections provide protected email links.
+A bilingual Quarto website prepared for free GitHub Pages hosting. The public address currently shows only a temporary offline notice; the academic pages and assets are excluded from publication. The five pages are Me, Research, Teaching, Outreach and Talks. The PhD and outreach sections provide protected email links.
 
 ## Updating the content
 
@@ -47,7 +47,7 @@ npm run preview
 
 The built site appears in `dist/`. Preview it at `http://127.0.0.1:4321`. `QUARTO_BIN` can point to a portable Quarto installation.
 
-To publish an update with the existing GitHub Pages setup, copy the contents of `dist/` to the repository root, keeping `source/` and `scripts/`, then commit and push to `main`. The existing GitHub Pages deployment publishes the root automatically. The generated `.nojekyll` file is required. Nothing requires a paid hosting plan.
+Keep changes local until Eduardo explicitly asks to make the academic site public again. To restore publication, remove the temporary root `_config.yml`, copy the contents of `dist/` to the repository root (including `.nojekyll`), keep `source/` and `scripts/`, and commit and push to `main`. This replaces the temporary offline `index.html`, `404.html` and `robots.txt`. The GitHub Pages deployment then publishes the restored site. Nothing requires a paid hosting plan.
 
 ## Protected email links
 
