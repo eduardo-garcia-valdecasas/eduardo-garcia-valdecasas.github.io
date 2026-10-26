@@ -14,17 +14,17 @@ The page generator in **scripts/generate-pages.mjs** controls page layout and in
 
 Use **source/publications.bib** for the downloadable bibliography. Update that file alongside the publication records.
 
-### Adding notes, solved exercises or an HTML animation
+### Adding an HTML problem-solution animation
 
-1. Put the PDF, HTML file or supporting folder in **source/assets/materials/**. An animation can be an ordinary HTML page with its JavaScript and images alongside it. No server or paid service is required.
+1. Put the HTML animation or its supporting folder in **source/assets/materials/**. An animation can be an ordinary HTML page with its JavaScript and images alongside it. No server or paid service is required.
 2. Add a record to the `materials` array in `source/data/content.json`:
 
 ```json
 {
   "title": {"en": "Your resource title", "es": "Título del recurso"},
   "description": {"en": "A brief description.", "es": "Una descripción breve."},
-  "kind": "notes",
-  "url": "assets/materials/your-file.pdf"
+  "kind": "animation",
+  "url": "assets/materials/your-animation.html"
 }
 ```
 
@@ -59,6 +59,6 @@ YouTube is an external service with its own availability and privacy policy. Hos
 
 ## Content sources
 
-Publication links point to INSPIRE, arXiv and the journal. Talks link to verified event programmes, slides or recordings when available. The teaching page distinguishes the historical Quantum Mechanics I syllabus from a later official Fundamentals of Physics III guide. The current UPM role and October 2026 start date were supplied by Eduardo.
+Publication links point to INSPIRE, arXiv and the journal. Talks link to verified event programmes, slides or recordings when available. The Teaching page focuses on Classical Mechanics and Physics II at ETSIAE, planned HTML solution animations, and a compact summary of earlier UAM teaching and BSc supervision. The current UPM role and October 2026 start date were supplied by Eduardo.
 
 The photograph and research content belong to their respective owners. The photograph was provided by Eduardo for this site.

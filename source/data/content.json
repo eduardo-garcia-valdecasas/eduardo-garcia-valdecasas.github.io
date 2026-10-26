@@ -11,12 +11,12 @@
   },
   "bio": {
     "en": [
-      "I’m a theoretical physicist and Assistant Professor at UPM’s School of Aeronautical and Space Engineering in Madrid. My work explores quantum field theory, string theory and holography, especially what symmetries can tell us about quantum gravity.",
-      "I enjoy finding connections between ideas that at first seem far apart, and sharing the physics behind them. Before joining UPM in October 2026, I worked at SISSA, Harvard and the Université libre de Bruxelles."
+      "I’m a theoretical physicist and Assistant Professor at UPM’s School of Aeronautical and Space Engineering in Madrid. My work explores quantum field theory, string theory and holography, with a focus on symmetry. Lately, I have focused on the roles of symmetry in holography, its applications to particle phenomenology, and quantum information measures of symmetry breaking.",
+      "Before joining UPM in October 2026, I held postdoctoral positions at SISSA, Harvard and the Université libre de Bruxelles. My stay at Harvard was supported by a Margarita Salas award."
     ],
     "es": [
-      "Soy físico teórico y profesor ayudante doctor en la ETSIAE de la Universidad Politécnica de Madrid. Investigo en teoría cuántica de campos, teoría de cuerdas y holografía, con especial interés en lo que las simetrías nos enseñan sobre la gravedad cuántica.",
-      "Me gusta conectar ideas que a primera vista parecen lejanas y compartir la física que hay detrás. Antes de incorporarme a la UPM en octubre de 2026, fui investigador posdoctoral en SISSA, Harvard y la Université libre de Bruxelles."
+      "Soy físico teórico y profesor ayudante doctor en la ETSIAE de la Universidad Politécnica de Madrid. Investigo en teoría cuántica de campos, teoría de cuerdas y holografía, con especial interés en las simetrías. Últimamente me he centrado en el papel de las simetrías en holografía, sus aplicaciones a la fenomenología de partículas y las medidas de información cuántica de la ruptura de simetrías.",
+      "Antes de incorporarme a la UPM en octubre de 2026, fui investigador posdoctoral en SISSA, Harvard y la Université libre de Bruxelles. Mi estancia en Harvard estuvo financiada por una ayuda Margarita Salas."
     ]
   },
   "publications": [
@@ -851,64 +851,18 @@
   ],
   "teaching": [
     {
-      "id": "quantum-mechanics-i",
-      "title_en": "Quantum Mechanics I",
-      "title_es": "Mecánica Cuántica I",
-      "institution": "Universidad Autónoma de Madrid",
-      "term": "Autumn 2018",
-      "academic_year": "2018/19",
-      "student_year": 3,
-      "hours": 15,
-      "role_en": "Problem-solving classes covering the full course syllabus",
-      "role_es": "Clases de problemas que cubrían el temario completo de la asignatura",
-      "code": "16407",
-      "year_taught": "2018/19",
-      "url": "https://secretaria-virtual.uam.es/doa/consultaPublica/look%5Bconpub%5DMostrarPubGuiaDocAs?_anoAcademico=2018&_codAsignatura=16407&entradaPublica=true&idiomaPais=es.ES",
-      "status": "Exact academic-year syllabus retrieved",
-      "topics_en": [
-        "Origins of quantum theory and wave-particle duality",
-        "Wave functions, Schrödinger equation and one-dimensional systems",
-        "Dirac formalism, observables, measurement and uncertainty",
-        "Quantum harmonic oscillator"
-      ],
-      "topics_es": [
-        "Orígenes de la teoría cuántica y dualidad onda-partícula",
-        "Funciones de onda, ecuación de Schrödinger y sistemas unidimensionales",
-        "Formalismo de Dirac, observables, medida e incertidumbre",
-        "Oscilador armónico cuántico"
-      ]
+      "id": "classical-mechanics",
+      "title_en": "Classical Mechanics",
+      "title_es": "Mecánica Clásica",
+      "institution": "Universidad Politécnica de Madrid",
+      "school": "ETSIAE"
     },
     {
-      "id": "fundamentals-of-physics-iii",
-      "title_en": "Fundamentals of Physics III",
-      "title_es": "Fundamentos de Física III",
-      "institution": "Universidad Autónoma de Madrid",
-      "term": "Spring 2017",
-      "academic_year": "2016/17",
-      "student_year": 1,
-      "hours": 15,
-      "role_en": "Problem-solving classes covering the full course syllabus",
-      "role_es": "Clases de problemas que cubrían el temario completo de la asignatura",
-      "code": "16387",
-      "year_taught": "2016/17",
-      "historical_url_attempted": "https://secretaria-virtual.uam.es/doa/consultaPublica/look%5Bconpub%5DMostrarPubGuiaDocAs?_anoAcademico=2016&_codAsignatura=16387&entradaPublica=true&idiomaPais=es.ES",
-      "url": "https://secretaria-virtual.uam.es/doa/consultaPublica/look%5Bconpub%5DMostrarPubGuiaDocAs?_anoAcademico=2020&_codAsignatura=16387&entradaPublica=true&idiomaPais=es.ES",
-      "reference_year": "2020/21",
-      "status": "Historical 2016/17 request returns application error; later official syllabus used only as a topic reference",
-      "topics_en": [
-        "Relativity",
-        "Introductory quantum mechanics",
-        "Atomic, molecular and solid-state structure",
-        "Nuclear and particle physics",
-        "Astrophysics and cosmology"
-      ],
-      "topics_es": [
-        "Relatividad",
-        "Introducción a la mecánica cuántica",
-        "Estructura atómica, molecular y de sólidos",
-        "Física nuclear y de partículas",
-        "Astrofísica y cosmología"
-      ]
+      "id": "physics-ii",
+      "title_en": "Physics II",
+      "title_es": "Física II",
+      "institution": "Universidad Politécnica de Madrid",
+      "school": "ETSIAE"
     }
   ],
   "supervision": [
@@ -1399,17 +1353,40 @@
   ],
   "research_themes": [
     {
-      "en": "Generalized symmetries and quantum gravity",
-      "es": "Simetrías generalizadas y gravedad cuántica",
-      "summary_en": "Higher-form, instantonic and non-invertible symmetries, including their realization or breaking in string theory and supergravity.",
-      "summary_es": "Simetrías de formas superiores, instantónicas y no invertibles, y su realización o ruptura en teoría de cuerdas y supergravedad.",
+      "en": "Entanglement and symmetry breaking",
+      "es": "Entrelazamiento y ruptura de simetrías",
+      "summary_en": "Quantum information measures of spontaneous symmetry breaking, including entanglement asymmetry for ordinary and higher-form symmetries.",
+      "summary_es": "Medidas de información cuántica de la ruptura espontánea de simetrías, incluida la asimetría de entrelazamiento para simetrías ordinarias y de formas superiores.",
+      "papers": [
+        "2512.15898"
+      ],
+      "status": "Research grouping and order reflect Eduardo’s current priorities, clarified on 26 October 2026.",
+      "icon": 2
+    },
+    {
+      "en": "Uses of generalized symmetries",
+      "es": "Aplicaciones de las simetrías generalizadas",
+      "summary_en": "Applications to particle phenomenology, quantum gravity and supergravity, including the strong CP problem, monopoles and Chern–Weil symmetries, and non-invertible defects in supergravity.",
+      "summary_es": "Aplicaciones a la fenomenología de partículas, la gravedad cuántica y la supergravedad, como el problema CP fuerte, los monopolos y las simetrías de Chern–Weil, y los defectos no invertibles en supergravedad.",
       "papers": [
         "2402.00117",
         "2408.00067",
-        "2301.00777",
-        "2207.02831"
+        "2301.00777"
       ],
-      "status": "Editorial grouping inferred from the publication record; not a claim of a formally named project."
+      "status": "Research grouping and order reflect Eduardo’s current priorities, clarified on 26 October 2026.",
+      "icon": 0,
+      "paper_labels": {
+        "en": {
+          "2402.00117": "Strong CP",
+          "2408.00067": "Monopoles",
+          "2301.00777": "Supergravity"
+        },
+        "es": {
+          "2402.00117": "CP fuerte",
+          "2408.00067": "Monopolos",
+          "2301.00777": "Supergravedad"
+        }
+      }
     },
     {
       "en": "Holography, branes and gauge dynamics",
@@ -1422,17 +1399,8 @@
         "2506.18988",
         "2606.16630"
       ],
-      "status": "Editorial grouping inferred from the publication record; not a claim of a formally named project."
-    },
-    {
-      "en": "Entanglement and symmetry breaking",
-      "es": "Entrelazamiento y ruptura de simetrías",
-      "summary_en": "Entanglement asymmetry as a quantitative probe of spontaneous breaking of ordinary and higher-form symmetries.",
-      "summary_es": "La asimetría de entrelazamiento como herramienta cuantitativa para estudiar la ruptura espontánea de simetrías ordinarias y de formas superiores.",
-      "papers": [
-        "2512.15898"
-      ],
-      "status": "Editorial grouping inferred from the publication record; not a claim of a formally named project."
+      "status": "Research grouping and order reflect Eduardo’s current priorities, clarified on 26 October 2026.",
+      "icon": 1
     },
     {
       "en": "String vacua, instantons and supersymmetry breaking",
@@ -1447,10 +1415,35 @@
         "2005.09671",
         "2207.00525"
       ],
-      "status": "Editorial grouping inferred from the publication record; not a claim of a formally named project."
+      "status": "Research grouping and order reflect Eduardo’s current priorities, clarified on 26 October 2026.",
+      "icon": 3
     }
   ],
   "materials": [],
   "updated": "2026-10-26",
-  "contact_code": "18.19.1o.14.1n.19.12.2v.1a.14.1n.16.w.14.2v.1r.14.11.19.18.16.14.1m.14.1m.9.1a.10.14.w.11.2v.16.12.10"
+  "contact_code": "18.19.1o.14.1n.19.12.2v.1a.14.1n.16.w.14.2v.1r.14.11.19.18.16.14.1m.14.1m.9.1a.10.14.w.11.2v.16.12.10",
+  "harvard_funding": {
+    "en": "Margarita Salas award",
+    "es": "Ayuda Margarita Salas"
+  },
+  "previous_teaching": [
+    {
+      "id": "quantum-mechanics-i",
+      "title_en": "Quantum Mechanics I",
+      "title_es": "Mecánica Cuántica I",
+      "year": "2018",
+      "institution": "Universidad Autónoma de Madrid"
+    },
+    {
+      "id": "fundamentals-of-physics-iii",
+      "title_en": "Fundamentals of Physics III",
+      "title_es": "Fundamentos de Física III",
+      "year": "2017",
+      "institution": "Universidad Autónoma de Madrid"
+    }
+  ],
+  "materials_plan": {
+    "en": "I plan to add HTML animations showing solutions to problems in these courses.",
+    "es": "Tengo previsto incorporar animaciones HTML con soluciones a problemas de estas asignaturas."
+  }
 }
