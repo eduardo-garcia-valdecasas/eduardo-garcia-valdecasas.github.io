@@ -1,0 +1,15 @@
+# The academic website is intentionally offline. Preserve the source files.
+# Restore .nojekyll and the rendered site only when publication is requested.
+exclude:
+  - assets
+  - es
+  - source
+  - scripts
+  - research.html
+  - teaching.html
+  - outreach.html
+  - talks.html
+  - publications.bib
+  - README.md
+  - package.json
+  - sitemap.xml
