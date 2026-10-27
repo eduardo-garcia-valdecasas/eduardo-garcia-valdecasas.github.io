@@ -283,8 +283,8 @@ function dynamics(){
 
 function icon(i){
  const content=[
-  // A propagating particle crosses a planar topological symmetry operator.
-  `<path d="m23 7 14 8-6 32-14-8Z" fill="var(--tint)"/><path d="M5 27h44m-5-3 5 3-5 3"/>`,
+  // Dashed particle propagators merge and cross a straight defect, acquiring a solid attached line.
+  `<path d="M32 7v40M32 27q6 12 17 12"/><path d="M5 13 18 27M5 41 18 27M18 27h31" stroke-dasharray="2.3 2.8"/><circle cx="18" cy="27" r="1.25" fill="var(--accent)"/>`,
   // Two parallel branes joined by an open string, also suggesting a SymTFT slab.
   `<path d="m8 15 9-6v30l-9 6Zm29 0 9-6v30l-9 6Z" fill="var(--tint)"/><path d="M12.5 27c9-9 20 9 29 0"/><g fill="var(--accent)"><circle cx="12.5" cy="27" r="1.7"/><circle cx="41.5" cy="27" r="1.7"/></g>`,
   // An entangled pair straddling the cut between a subsystem and its complement.
