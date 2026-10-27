@@ -283,14 +283,14 @@ function dynamics(){
 
 function icon(i){
  const content=[
-  // Fusion of two topological symmetry defects into a third.
-  `<path d="M9 9c0 10 8 18 18 18h18M9 45c0-10 8-18 18-18"/>`,
-  // A bulk string with its two endpoints on the holographic boundary.
-  `<path d="M7 11h40M15 11c0 41 24 41 24 0"/><g fill="var(--accent)"><circle cx="15" cy="11" r="2.2"/><circle cx="39" cy="11" r="2.2"/></g>`,
+  // A propagating particle crosses a planar topological symmetry operator.
+  `<path d="m23 7 14 8-6 32-14-8Z" fill="var(--tint)"/><path d="M5 27h44m-5-3 5 3-5 3"/>`,
+  // Two parallel branes joined by an open string, also suggesting a SymTFT slab.
+  `<path d="m8 15 9-6v30l-9 6Zm29 0 9-6v30l-9 6Z" fill="var(--tint)"/><path d="M12.5 27c9-9 20 9 29 0"/><g fill="var(--accent)"><circle cx="12.5" cy="27" r="1.7"/><circle cx="41.5" cy="27" r="1.7"/></g>`,
   // An entangled pair straddling the cut between a subsystem and its complement.
   `<path d="M27 7v40" stroke-dasharray="2 4"/><path d="M11 34c0-24 32-24 32 0"/><g fill="var(--accent)"><circle cx="11" cy="34" r="3"/><circle cx="43" cy="34" r="3"/></g>`,
   // One bipartite dimer cell, with alternating filled and open vertices.
-  `<path d="m27 8 16.45 9.5v19L27 46l-16.45-9.5v-19Z"/><g fill="var(--accent)"><circle cx="27" cy="8" r="2.8"/><circle cx="43.45" cy="36.5" r="2.8"/><circle cx="10.55" cy="17.5" r="2.8"/></g><g fill="var(--paper)"><circle cx="43.45" cy="17.5" r="2.8"/><circle cx="27" cy="46" r="2.8"/><circle cx="10.55" cy="36.5" r="2.8"/></g>`
+  `<path d="m27 8 16.45 9.5v19L27 46l-16.45-9.5v-19Z"/><g fill="var(--accent)"><circle cx="27" cy="8" r="2.8"/><circle cx="43.45" cy="36.5" r="2.8"/><circle cx="10.55" cy="36.5" r="2.8"/></g><g fill="var(--paper)"><circle cx="43.45" cy="17.5" r="2.8"/><circle cx="27" cy="46" r="2.8"/><circle cx="10.55" cy="17.5" r="2.8"/></g>`
  ][i];
  return `<svg class="area-icon" viewBox="0 0 54 54" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">${content}</svg>`;
 }
