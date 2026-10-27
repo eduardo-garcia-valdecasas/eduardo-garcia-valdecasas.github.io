@@ -12,6 +12,8 @@ The editable content is in **source/data/content.json**. It contains the bilingu
 
 The page generator in **scripts/generate-pages.mjs** controls page layout and interface wording. It generates the `.qmd` pages before rendering; edits to generated pages are replaced at the next build. The design is in **source/assets/site.css** and the page shell is in **source/templates/page.html**.
 
+The Research illustration is an original regular hyperbolic tessellation, generated as static SVG by **scripts/ads-tessellation.mjs**.
+
 Use **source/publications.bib** for the downloadable bibliography. Update that file alongside the publication records.
 
 ### Adding an HTML problem-solution animation
@@ -47,7 +49,7 @@ npm run preview
 
 The built site appears in `dist/`. Preview it at `http://127.0.0.1:4321`. `QUARTO_BIN` can point to a portable Quarto installation.
 
-Keep changes local until Eduardo explicitly asks to make the academic site public again. To restore publication, remove the temporary root `_config.yml`, copy the contents of `dist/` to the repository root (including `.nojekyll`), keep `source/` and `scripts/`, and commit and push to `main`. This replaces the temporary offline `index.html`, `404.html` and `robots.txt`. The GitHub Pages deployment then publishes the restored site. Nothing requires a paid hosting plan.
+Keep the academic pages offline until Eduardo explicitly asks to make the site public again. To restore publication, remove the temporary root `_config.yml`, copy the contents of `dist/` to the repository root (including `.nojekyll`), keep `source/` and `scripts/`, and commit and push to `main`. This replaces the temporary offline `index.html`, `404.html` and `robots.txt`. The GitHub Pages deployment then publishes the restored site. Nothing requires a paid hosting plan.
 
 ## Protected email links
 
